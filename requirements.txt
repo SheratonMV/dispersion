@@ -1,0 +1,11 @@
+opencv-python
+numpy
+future
+scipy
+matplotlib
+FiPy==3.4.2.1
+scikit-learn
+scikit-image
+mpi4py
+cython
+cx_freeze
